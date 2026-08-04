@@ -11,7 +11,7 @@ IT + AI double major at Carroll University, graduating in May 2027. I work acros
   </tr>
   <tr>
     <td width="96"><img src="https://github.com/user-attachments/assets/b5d26d4f-7f62-4793-af1a-732329e15c29" width="90" alt="IMC Prosperity 4 finals badge"></td>
-    <td><strong><a href="https://github.com/daniph04/imc-prosperity-4-case-study">IMC Prosperity 4</a></strong><br>Strategy evaluation, backtesting, and transaction-cost analysis for a finalist team that placed 750th of 18,803 teams worldwide (top 4%).</td>
+    <td><strong><a href="https://github.com/daniph04/imc-prosperity-4-case-study">IMC Prosperity 4</a></strong><br>Python backtesting, parameter analysis, and transaction-cost evaluation for a finalist team that placed #750 of 18,803 teams worldwide (top 4%) and #9 in Spain.</td>
   </tr>
   <tr>
     <td width="96"><img src="https://github.com/user-attachments/assets/38b7882a-c70a-4997-9f26-82681840f494" width="72" alt="Tenerife Next Academy logo"></td>
