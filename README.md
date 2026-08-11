@@ -14,8 +14,8 @@ IT + AI double major at Carroll University, graduating in May 2027. I work acros
     <td><strong><a href="https://github.com/daniph04/imc-prosperity-4-case-study">IMC Prosperity 4</a></strong><br>Five-round Python strategy evaluation, official-result analysis, and reproducible backtest audit for a finalist team that placed #750 of 18,803 teams worldwide (top 4%) and #9 in Spain.</td>
   </tr>
   <tr>
-    <td width="96"><img src="https://github.com/user-attachments/assets/38b7882a-c70a-4997-9f26-82681840f494" width="72" alt="Tenerife Next Academy logo"></td>
-    <td><strong><a href="https://github.com/daniph04/tenerife-next-academy-case-study">Tenerife Next Academy</a></strong><br>Stakeholder-led Next.js website delivery: product structure, responsive journeys, verified build evidence, and documented release boundaries. Public case study; source remains private.</td>
+    <td width="96"><img src="tenerife-logo.png" width="90" alt="Tenerife Next Academy logo"></td>
+    <td><strong><a href="https://github.com/daniph04/tenerife-next-academy-case-study">Tenerife Next Academy</a></strong><br>Delivery and ongoing support of a Next.js website for a football-training project in Tenerife. Public case study; source remains private.</td>
   </tr>
 </table>
 
