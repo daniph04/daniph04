@@ -7,7 +7,7 @@ IT + AI double major at Carroll University, graduating in May 2027. I work acros
 <table>
   <tr>
     <td width="96"><img src="https://github.com/user-attachments/assets/4c59ef61-bb35-4b3b-a481-76aedafdc933" width="72" alt="InvestCircles logo"></td>
-    <td><strong>InvestCircles</strong><br>Product direction and test-backed web and iOS development for structured group portfolio tracking. Source remains private.</td>
+    <td><strong><a href="https://github.com/daniph04/investcircles-case-study">InvestCircles</a></strong><br>Product decisions, privacy design, technical architecture, and test-backed web and iOS development. Public case study; source remains private.</td>
   </tr>
   <tr>
     <td width="96"><img src="https://github.com/user-attachments/assets/b5d26d4f-7f62-4793-af1a-732329e15c29" width="90" alt="IMC Prosperity 4 finals badge"></td>
